@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-gallery/static/css/main.f6b9055f.css",
-    "main.js": "/my-gallery/static/js/main.39af733f.js",
+    "main.js": "/my-gallery/static/js/main.cdab7dd4.js",
     "static/media/animal-track-transparent-2.png": "/my-gallery/static/media/animal-track-transparent-2.e16fa77f16c13b91a169.png",
     "index.html": "/my-gallery/index.html",
     "main.f6b9055f.css.map": "/my-gallery/static/css/main.f6b9055f.css.map",
-    "main.39af733f.js.map": "/my-gallery/static/js/main.39af733f.js.map"
+    "main.cdab7dd4.js.map": "/my-gallery/static/js/main.cdab7dd4.js.map"
   },
   "entrypoints": [
     "static/css/main.f6b9055f.css",
-    "static/js/main.39af733f.js"
+    "static/js/main.cdab7dd4.js"
   ]
 }
